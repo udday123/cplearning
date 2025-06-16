@@ -6,3 +6,5 @@ bool isPowerOfTwo(int n) {
 gcd(a,b)==gcd(|a-b|,min(a,b));
 or if a>b 
 gcd(a,b)==gcd(a-b,,b);
+git add .
+git commit -m "16-6-2025"
