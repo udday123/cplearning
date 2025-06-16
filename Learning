@@ -1,6 +1,8 @@
+/******/
 bool isPowerOfTwo(int n) {
     return n > 0 && (n & (n - 1)) == 0;
 }
+/******/
 gcd(a,b)==gcd(|a-b|,min(a,b));
 or if a>b 
 gcd(a,b)==gcd(a-b,,b);
